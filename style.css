@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: sans-serif;
+    font-family: "Roboto", sans-serif;
     background: #e2e8f0;
     display: grid;
     grid-template-columns: 260px 1fr;
